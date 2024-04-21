@@ -1,26 +1,26 @@
 Algoritmo "Exercicio20Faccat"
-// Disciplina  : [Lógica de Programação com JavaScript]
+// Disciplina  : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson
-// Descrição   : Solicitar dois número e informar ordem crescente
-// Autor(a)    : Jailson
+// DescriÃ§Ã£o   : Solicitar dois nÃºmero e informar ordem crescente
+// Autor(a)    : kaua oraboni
 // Data atual  : 25/03/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    numero1,numero2:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Digite o primeiro número :")
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+   Escreval("Digite o primeiro nÃºmero :")
    Leia(numero1)
-   Escreval("Digite o segundo número :")
+   Escreval("Digite o segundo nÃºmero :")
    Leia(numero2)
    se numero1 = numero2 entao
-      Escreval("Não pode ser digitado números iguais")
+      Escreval("NÃ£o pode ser digitado nÃºmeros iguais")
    senao
       se numero1<numero2 entao
-         Escreval("O número ", numero1, " é menor que o número ", numero2)
+         Escreval("O nÃºmero ", numero1, " Ã© menor que o nÃºmero ", numero2)
       senao
-         Escreval("O número ", numero2, " é menor que o número", numero1)
+         Escreval("O nÃºmero ", numero2, " Ã© menor que o nÃºmero", numero1)
       fimse
    fimse
 Fimalgoritmo
