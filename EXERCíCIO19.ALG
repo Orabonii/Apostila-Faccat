@@ -1,15 +1,15 @@
-algoritmo "exercício19faccat"
-// Disciplina  : Linguagem e Lógica de Programação com JS
+algoritmo "exercÃ­cio19faccat"
+// Disciplina  : Linguagem e LÃ³gica de ProgramaÃ§Ã£o com JS
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Ler dois valores e mostrar qual é o maior entre os valores
-// Autor(a)    : Ryan de Almeida da Silva
+// DescriÃ§Ã£o   : Ler dois valores e mostrar qual Ã© o maior entre os valores
+// Autor(a)    : kaua oraboni
 // Data atual  : 25/03/2024
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
 valor1, valor2:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 escreva("Digite o primeiro numero: ")
 leia(valor1)
 escreva("Digite o segundo numero: ")
@@ -18,9 +18,9 @@ leia(valor2)
 limpatela
 
 se valor1 > valor2 entao
-escreva("O primeiro valor é maior que o segundo!")
+escreva("O primeiro valor Ã© maior que o segundo!")
 senao
-escreva("O segundo valor é maior que o primeiro!")
+escreva("O segundo valor Ã© maior que o primeiro!")
 fimse
 
 Fimalgoritmo
