@@ -1,8 +1,8 @@
-algoritmo "exercício18faccat"
-// Disciplina  : Linguagem e Lógica de Programação com JS
+algoritmo "exercÃ­cio18faccat"
+// Disciplina  : Linguagem e LÃ³gica de ProgramaÃ§Ã£o com JS
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Ler o ano atual e o ano de nascimento e dizer se a pessoa poderá votar ou não
-// Autor(a)    : Ryan de Almeida da Silva
+// DescriÃ§Ã£o   : Ler o ano atual e o ano de nascimento e dizer se a pessoa poderÃ¡ votar ou nÃ£o
+// Autor(a)    : kaua oraboni
 // Data atual  : 25/03/2024
 var
 
@@ -27,7 +27,7 @@ inicio
             escreva("voto opcional!")
          senao
             se ano_calculo > 18 entao
-               escreva("voto obrigatório!")
+               escreva("voto obrigatÃ³rio!")
             fimse
          fimse
       fimse
